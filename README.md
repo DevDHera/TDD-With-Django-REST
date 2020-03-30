@@ -13,10 +13,6 @@
 [fork status badge]: https://img.shields.io/github/forks/DevDHera/TDD-With-Django-REST
 [fork status link]: https://github.com/DevDHera/TDD-With-Django-REST/network/members
 
-# TDD-With-Django-REST
-
-Guide to REST API development with Django (The TDD Way 😎)
-
 # TDD-With-Django-REST 😎
 
 This project is a guide to REST API development with the help of [Django Rest Framework](https://www.django-rest-framework.org/).
